@@ -5,5 +5,9 @@ Git pull ya incluye el merge
 git fetch primero los agarra y hay que hacer merge para agregarlos al repositorio
 
 
+<<<<<<< HEAD
 
 cambio desde repo local
+=======
+cambio nuevo
+>>>>>>> 42580078b2e8e57f334c917d86a6a1727b0f5e3e
