@@ -3,3 +3,7 @@
 Este texto se creo desde GitHub y lo voy a pasar al repositorio local con pull o fetch
 Git pull ya incluye el merge
 git fetch primero los agarra y hay que hacer merge para agregarlos al repositorio
+
+
+
+cambio desde repo local
